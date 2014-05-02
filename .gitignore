@@ -1,2 +1,3 @@
-client_secret*.json
-*privatekey.p12
+**/client_secret*.json
+**/*privatekey.p12
+/eclipse/**/bin/
